@@ -1,0 +1,13 @@
+body{
+    margin:0;
+    font-family:sans-sherif;
+    color: green;
+}
+.content{
+    border: 1px solid black;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+    padding:  16px;
+}
